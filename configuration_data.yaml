@@ -1,0 +1,6 @@
+DBServer: 'server_name'
+DBDatabaseName: 'database_name'
+DBUsername: 'username'
+DBPassword: 'password'
+SpotifyUsername: 'spotify_username'
+SpotifyPassword: 'spotify_password'
